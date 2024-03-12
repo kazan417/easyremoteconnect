@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=rdp.png
+Icon[ru_RU]=rdp.png
+Name[ru_RU]=server
+Exec=xfreerdp  /floatbar /f /v:server  /cert-ignore /d:mgkb.ru /smartcard /a:printer /bpp:32
+Name=server
