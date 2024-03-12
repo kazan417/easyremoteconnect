@@ -4,3 +4,5 @@
 1. распаковать все из архива в 1 папку
 2. Изменить в файле server.desktop строчку /v:server на желаемый сервер
 3. Запустить easyremoteconnect.sh
+
+скачивайте файл easyremoteconnect.tar из releases
